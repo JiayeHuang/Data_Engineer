@@ -1,0 +1,4 @@
+/.venv/
+/secret/credential.py
+/data/stock_agg_by_month.parquet/
+/data/stock_price_validation.parquet/
